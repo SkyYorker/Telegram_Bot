@@ -39,7 +39,7 @@ Telegram_Bot
 
 1. Клонируйте репозиторий:
    ```
-   git clone <repository-url>
+   git clone https://github.com/SkyYorker/Telegram_Bot
    ```
 
 2. Перейдите в директорию проекта:
